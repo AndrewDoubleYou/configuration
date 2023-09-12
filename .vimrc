@@ -23,5 +23,4 @@ call plug#end()
 set t_Co=256
 syntax on
 colorscheme minimalist
-highlight LineNr ctermfg=Yellow
 highlight Comment ctermfg=green
